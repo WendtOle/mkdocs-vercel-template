@@ -1,0 +1,5 @@
+site_name: My Docs
+nav:
+   - Home: index.md
+   - Setup: setup.md
+site_dir: build/
